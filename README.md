@@ -16,7 +16,7 @@ This folder contains the options and parameters file of the deep hashing network
 
 ## Data
 
-There are 2700 images in the "test_image" folder. If you want to use your own image, please obey the following rules of data directory structure:
+If you want to test the model, please obey the following rules of data directory structure:
 ```
 <data_root>/
   test/
